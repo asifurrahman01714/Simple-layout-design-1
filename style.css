@@ -1,0 +1,41 @@
+h1{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+header{
+	background-color: #0087ff;
+	height: 50px;
+	margin: 0;
+
+}
+.content{
+	margin-top: 10px;
+	overflow: hidden;
+	margin-bottom: 5px
+}
+
+.nav{
+	background-color: #b0f;
+	height: 400px;
+	width: 20%;
+	float: left;
+	margin-right: 5px;
+}
+.article{
+	background-color: #00abff;
+	height: 400px;
+	width: 59%;
+	float: left;
+}
+.ads{
+	background-color: #00f3ff;
+	height: 400px;
+	width: 20%;
+	float: right;
+}
+.footer{
+	background-color: #007cff;
+	height: 100px;
+
+}
